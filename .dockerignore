@@ -31,3 +31,6 @@ scripts/
 terraform/
 test/
 vagrant/
+
+# Terraform de déploiement (évite de copier .terraform/ dans le contexte Docker)
+deploy/
